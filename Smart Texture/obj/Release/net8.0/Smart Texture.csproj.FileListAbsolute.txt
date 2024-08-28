@@ -1,0 +1,69 @@
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.exe
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.deps.json
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.runtimeconfig.json
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.pdb
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\BuildSoft.OscCore.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\System.Drawing.Common.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\vrcosclib.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfo.cs
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Te.F08B2551.Up2Date
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\refint\Smart Texture.dll
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.pdb
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.genruntimeconfig.cache
+C:\Users\artem\source\repos\Smart Texture\Smart Texture\obj\Release\net8.0\ref\Smart Texture.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.exe
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.deps.json
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.runtimeconfig.json
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Smart Texture.pdb
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\BuildSoft.OscCore.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\vrcosclib.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\C#\Smart Texture\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.AssemblyReference.cache
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfoInputs.cache
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfo.cs
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Te.F08B2551.Up2Date
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.dll
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\refint\Smart Texture.dll
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.pdb
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\Smart Texture.genruntimeconfig.cache
+D:\Projects\C#\Smart Texture\Smart Texture\obj\Release\net8.0\ref\Smart Texture.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Smart Texture.exe
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Smart Texture.deps.json
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Smart Texture.runtimeconfig.json
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Smart Texture.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Smart Texture.pdb
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\BuildSoft.OscCore.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\vrcosclib.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.AssemblyReference.cache
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfoInputs.cache
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.AssemblyInfo.cs
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.csproj.CoreCompileInputs.cache
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Te.F08B2551.Up2Date
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\refint\Smart Texture.dll
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.pdb
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\Smart Texture.genruntimeconfig.cache
+D:\Projects\C#\MeshAnimator Suite\Smart Texture\obj\Release\net8.0\ref\Smart Texture.dll
